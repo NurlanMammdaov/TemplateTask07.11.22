@@ -1,0 +1,39 @@
+.navBar1 li{
+    display:inline-block;
+    margin-right: 3px;
+}
+.navBar1 li a{
+    color: #878789;
+    text-decoration: none;
+}
+.Logo a{
+    color: #878789;
+    text-decoration: none;
+}
+nav{
+    background-color:#212529;
+    height: 600px;
+}
+.dropdown button{
+    background-color: #343A40;
+    border-color: #343A40;
+    color:#878789 ;
+}
+.dropdown button:hover{
+    background-color: #343A40;
+    border-color: #343A40;
+}
+.section{
+    margin-top: 60px;
+}
+.NavBar{
+    padding-top: 10px;
+    
+}
+.tables div{
+display:inline-block;
+margin-left: 75px;
+}
+.tables{
+    margin-top: 50px;
+}
