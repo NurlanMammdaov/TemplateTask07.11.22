@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.userPhoto img{
+width: 170px;
+height: 170px;
+border-radius: 100%;
+margin-top: 180px;
+border: 0.5rem solid rgba(255, 255, 255, 0.2);
+}
+.userPhoto{
+    text-align: center;
+}
+.userAbout{
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size:  20px;;
+}
+.userAbout li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.userAbout a{
+    text-decoration: none;
+    color: #E1B6A5;
+    text-transform: uppercase;
+}
+.firstSection{
+    padding-top: 30%;
+}
+.firstSection h1{
+    font-size: 6rem;
+    color: #343A40;
+}
+.firstSection span{
+    font-size: 6rem;
+    color: #BD5D38;
+}
+.firstSection a{
+    color: #bd5d38;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
+.socialMedia li{
+    display: inline-block;
+    font-size: 40px;
+}
+.socialMedia li i{
+    border-radius: 100%;
+    color: #343A40;
+}
+.programingLanguage li {
+    display: inline-block;
+    font-size: 40px;
+    color: #6C757D;
+}
+.programAbout li{
+    color: #6C757D;
+    list-style-type: none;
+}
+#interestsUserscroll p{
+color: #6C757D;
+}
+.cupInfo li{
+  list-style-type: none;
+
+}
+.cupInfo li i{
+  color: gold;
+  margin-right: 10px;
+}
+.hoverA:hover{
+    color: #201756;
+}
+.userAbout li :hover{
+    color: #AC4D2D;
+}
